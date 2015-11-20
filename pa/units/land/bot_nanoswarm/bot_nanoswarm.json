@@ -4,7 +4,7 @@
     "description": "!LOC:Nanobot Swarm- Extremely Fast. Cheap. Close range. Devastating damage. Attacks land targets.",
     "max_health": 80,
     "spawn_layers": "WL_LandHorizontal",
-    "build_metal_cost": 240,
+    "build_metal_cost": 200,
     "attachable": {
         "offsets": {
             "root": [

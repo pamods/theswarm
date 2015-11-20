@@ -93,16 +93,12 @@
             "aim_bone": "bone_root"
         }
     ],
-    "death_weapon": {
-        "ground_ammo_spec": "/pa/ammo/nuke_pbaoe/nuke_pbaoe.json"
-    },
     "events": {
         "fired": {
             "audio_cue": "/SE/Weapons/bot/swarm",
             "effect_spec": ""
         },
         "died": {
-			"effect_spec": "/pa/effects/specs/default_commander_explosion_air.json",
             "audio_cue": "/SE/Death/swarm",
             "effect_scale": 1
         }

@@ -76,6 +76,7 @@
         "/pa/units/land/metal_storage/metal_storage.json",
         "/pa/units/land/radar/radar.json",
         "/pa/units/land/land_barrier/land_barrier.json",
+        "/pa/units/land/land_scout/land_scout.json",
         "/pa/units/land/laser_defense_single/laser_defense_single.json",
         "/pa/units/land/radar_adv/radar_adv.json",
         "/pa/units/commanders/base_commander/base_commander.json",
