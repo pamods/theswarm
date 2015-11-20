@@ -7,7 +7,7 @@
     "units"
   ], 
   "context": "server", 
-  "date": "2015/11/19", 
+  "date": "2015/11/20", 
   "description": "Build only locusts and a special new unit :p", 
   "display_name": "The Swarm", 
   "enabled": true, 
@@ -19,5 +19,5 @@
   ],
   "identifier": "com.pa.kiwi.swarm", 
   "signature": "not yet implemented", 
-  "version": "1.1"
+  "version": "1.2"
 }
