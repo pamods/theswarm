@@ -7,17 +7,16 @@
     "units"
   ], 
   "context": "server", 
-  "date": "2015/11/20", 
+  "date": "2017/09/25", 
   "description": "Build only locusts and a special new unit :p", 
   "display_name": "The Swarm", 
   "enabled": true, 
   "forum": "https://forums.uberent.com/threads/rel-the-swarm.70958/", 
   "icon": "http://i.imgur.com/b40Wlye.png", 
   "dependencies": [
-    "com.wondible.pa.hodgepodge",
-    "com.wondible.pa.icon_reloader"
+    "com.wondible.pa.hodgepodge"
   ],
   "identifier": "com.pa.kiwi.swarm", 
   "signature": "not yet implemented", 
-  "version": "1.4"
+  "version": "1.5"
 }
